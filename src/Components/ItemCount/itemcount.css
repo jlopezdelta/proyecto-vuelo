@@ -1,0 +1,23 @@
+.container-counter{
+    display:flex;
+    margin:0 auto;
+    justify-content:center;
+    align-items: center;
+    padding:20px 0;
+    border:1px solid #6305dd;
+    width:50%;
+    border-radius:5px;
+}
+
+
+
+.counter-btn{
+    width: 45px;
+    margin:5px;
+    border-radius:5px;
+    height: 45px;
+    border:none;
+    color:#f4f4f4;
+    background-color:#6305dd;
+}
+

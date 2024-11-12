@@ -1,0 +1,30 @@
+body{
+    height: 100vh;
+}
+
+.services-section{
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+    padding: 20px;
+}
+
+.info{
+    padding-top: 70px;
+}
+
+.info-services{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.img-service{
+    height: 11em;
+    padding-right: 10em; 
+}
+
+.title-service{
+    font-size: 2.1em;
+}
+
